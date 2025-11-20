@@ -12,6 +12,8 @@ config.aks.*.yaml
 *.orig
 \#*#
 *~
+.vs/
+
 
 # python
 *.py[co]
